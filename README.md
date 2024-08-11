@@ -15,9 +15,6 @@ This project involves analyzing weather data for India from 2020 to 2021. The an
 #### Histograms for humidity distribution
 
 ## Installation
-#### Clone this repository:
-git clone https://github.com/yourusername/india-weather-analysis.git
-
 #### Navigate to the project directory:
 cd india-weather-analysis
 
